@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactsSource xmlns:android="http://schemas.android.com/apk/res/android">
+    <ContactsDataKind
+        android:icon="@mipmap/ic_launcher"
+        android:mimeType="vnd.android.cursor.item/vnd.com.strawhat.providertest"
+        android:summaryColumn=""
+        android:detailColumn="data3"/>
+</ContactsSource>
